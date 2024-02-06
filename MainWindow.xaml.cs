@@ -18,7 +18,7 @@ namespace Game_Copy
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); //초기화
         }
     }
 }
